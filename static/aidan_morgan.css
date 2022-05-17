@@ -1,0 +1,61 @@
+img {
+    display: inline-block;
+    box-sizing: border-box;
+    border: 10px solid gainsboro;
+}
+body {
+    text-align: center;
+    justify-content: center;
+    background-image: url('ourden.jpg');
+    padding-top: 0.5%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.main-states {
+    text-align: right;
+}
+ul {
+    text-align: left;
+}
+main {
+    background-color: #212529;
+    display: flex;
+    color: gainsboro;
+    padding-left: 10%;
+    padding-top: 10%;
+    padding-right: 10%;
+    justify-content: space-between;
+}
+.button {
+    background-color: black;
+    color: white;
+    display: inline-block;
+    line-height: 1.5;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+    padding-right: 1rem;
+    border-radius: 0.3rem;
+    vertical-align: middle;
+    box-sizing: border-box;
+    border: 0.1rem solid #bbb;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.2rem;
+    font-family: sans-serif;
+}
+.panel {
+    background-color: black;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+    padding-right: 1rem;
+    border-radius: 0.3rem;
+    vertical-align: middle;
+    box-sizing: border-box;
+    border: 0.01rem solid #bbb;
+    text-decoration: none;
+    display: inline-block;
+    font-family: sans-serif;
+}
